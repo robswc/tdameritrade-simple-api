@@ -1,6 +1,6 @@
 import requests
 
-key = 'MNEHCLANY6NBYGJCXEDQV39MIXFYWUZM'
+key = ''
 
 def get_price_history(**kwargs):
 
